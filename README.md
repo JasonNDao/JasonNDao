@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JasonNDao!
-- I’m interested in software development and information security.
-- I’m currently learning C, databases, and website development and computer science at Rutgers University.
+- I’m interested in cybersecurity, systems engineering, and data science.
+- I’m currently learning operating systems, network programming, C, Python, and R at Rutgers University.
 - How to reach me: jasondao415@gmail.com
 
 <!---
