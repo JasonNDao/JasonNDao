@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @JasonNDao!
-- I’m interested in software engineering for system applications, web applications, and mobile applications as well as cybersecurity and computer systems.
-- I’m currently learning software engineering and computer security at Rutgers University-New Brunswick.
-- I'm also a past software engineering intern for Lockheed Martin and will be returning there as an associate software engineer in May 2023!
+- I’m interested in software engineering for back end, system applications, and embedded systems as well as cybersecurity.
+- I have graduated with a Bachelor's in Computer Science at Rutgers University-New Brunswick with summa cum laude.
+- I have interned as a software engineering intern for Clocky and Treehouse Strategy.
+- I'm also a past software engineering intern for Lockheed Martin returned there as a associate software engineer starting in June 2023!
 - How to reach me: jasondao415@gmail.com
 
 <!---
